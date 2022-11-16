@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(235, 222, 222);
+}
+.main_input{
+    display: flex;
+    justify-content: center;
+    display: grid;
+    margin: 50px auto;   
+}
+.input_child{
+    margin-top: 17px;
+    width: 147%;
+    margin-left: -24%;
+    border-radius: 14px;
+    padding: 10px;
+}

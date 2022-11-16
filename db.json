@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 1
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 2
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 3
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 4
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 5
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 5
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 6
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 5
+    },
+    {
+      "title": "mac-air M1 (2018)",
+      "price": "100$",
+      "image": "https://www.iguides.ru/upload/medialibrary/631/631b4ce114efae52db036505f8947681.jpg",
+      "id": 6
+    }
+  ]
+}
